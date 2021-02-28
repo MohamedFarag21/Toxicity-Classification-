@@ -3,6 +3,8 @@ In an open world like what we live in, there is chance that anyone of us will fa
 
 link: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
 
+We can see that using Deep-Learning gave us a great performance.
+
 
 ![003-avatar](https://user-images.githubusercontent.com/31109954/109434558-b90e2a00-79ca-11eb-953b-1d41c989c876.png)
 
